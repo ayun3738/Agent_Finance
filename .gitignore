@@ -1,0 +1,8 @@
+*pycache*
+data/
+docs_cache
+notebook
+
+.env
+APIKey.txt
+uv.lock
