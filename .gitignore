@@ -2,6 +2,7 @@
 data/
 docs_cache
 notebook
+.chainlit
 
 .env
 APIKey.txt
