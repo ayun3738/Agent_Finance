@@ -7,3 +7,4 @@ notebook
 .env
 APIKey.txt
 uv.lock
+server.log
