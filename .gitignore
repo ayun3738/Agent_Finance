@@ -3,6 +3,7 @@ data/
 docs_cache
 notebook
 .chainlit
+*chroma_db/
 
 .env
 APIKey.txt
